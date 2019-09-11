@@ -1,0 +1,20 @@
+Tested in Chrome only (Version 76.0.3809.132/Windows 10)
+
+In order to utilize this:
+
+1. Navigate to https://borderlands.com/en-US/vip/
+2. Log in/sign up
+3. Navigate to https://2kgames.crowdtwist.com/ -- This is a blank page, as there is no landing page
+4. Open up Chrome's console (F12)
+5. Paste the contents of the script inside, and hit enter
+6. Final results will be presented within a pop-up
+
+Note: This currently utilizes a static script, so codes will have to be maintained in some fashion; at some point may look into integrating it to automatically gathering codes, perhaps a database of sorts
+
+There may be a better way to implement this, but this is what I was able to figure out in a short period of time/low effort. Beats putting in codes manually.
+
+TODO (no particular order):
+* Database for codes
+* Implement feedback of codes to database (expired, etc, to not keep attempting)
+* Implement "Golden Keys", as it seems that should be feasible as well
+* 100% Borderlands 3
