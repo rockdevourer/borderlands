@@ -302,6 +302,7 @@ function appendCodeToArray(array, code) {
 }
 
 async function main() {
+	await tryGetLatestCodes();
 	gatherpoints();
 }
 
