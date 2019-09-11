@@ -8,7 +8,7 @@ email type: cid = 5264
 creator code: cid = 5263
 boost type: 5721
 
-After login, navigate to
+After login, navigate to 
 https://2kgames.crowdtwist.com/ -- This is a blank page, as there is no landing page
 https://2kgames.crowdtwist.com/widgets/t/code-redemption/9902/#2 -- This is one of the components of the redemption page, if you'd rather see that
 
@@ -63,21 +63,22 @@ var boostcid = 5721;
 
 
 var EMAILS = [
+    "FIGHT4SANCTUARY",
+    "LOOTLOOTLOOT",
+    "JOYPUKE",
     "BL3REVEAL",
     "BL3WELCOME",
-    "LOOTLOOTLOOT",
-    "FIGHT4SANCTUARY",
     "BL3ATE3",
-    "2kLove",
+    "2KLOVE",
     "HEYSUGAR",
     "SOHAPPYTOGETHER",
     "CLAPTASTIC",
     "MYMAIN",
     "ONTHEHUNT",
-    "FRESHBOOTY",
     "POWERUPEMAIL",
-    "Dasherz",
+    "DASHERZ",
     "LESSTHANTHREE",
+    "FRESHBOOTY",
     "BUILDURSQUAD",
     "OVERCLOCKED",
     "FORTNITEXMAYHEM",
@@ -85,8 +86,9 @@ var EMAILS = [
     "DUCTTAPEMOD",
     "MADSKILLZ",
     "ITSHERE",
-	"JABBER",
-	"Unblinkingeye"
+    "JABBER",
+    "UNBLINKINGEYE",
+    "ALMOSTTHERE"
 ]
 
 var CREATORS = [
@@ -114,97 +116,106 @@ var CREATORS = [
     "GRIMMBONEZE3",
     "CohhVIP",
     "Cure4Kids",
-    "GREGORONKH"
+    "GREGORONKH",
+    "BONJWA-BL3LAUNCH",
+    "LARALOFT-BL3LAUNCH",
+    "PIETSMIET-BL3LAUNCH",
+    "EARLYACCESS",
+    "DOKTORFROID-BL3LAUNCH"
+
 ]
 
 var VAULTS = [
-    "WUBWUBWUB",
-    "JOYPUKE",
-    "LOADINGBAR",
-    "IGNVIP",
-    "Borderlands3vip",
-    "TWITCHVIP",
-    "GAMESPOTVIP",
-    "FACEBOOKVIP",
-    "SHACKNEWSVIP",
-    "GAMEVIP",
-    "WEGOTUBOO",
-    "LOWCOSTCOSPLAYE3",
-    "BORDERLANDSCOSPLAYE3",
-    "ILOVEBAGUETTE",
-    "BL3FREVENTVIP",
-    "WHATCHUWANT",
-    "MUSHYSNUGGLEBITES",
-    "OOPS",
-    "BORDERLENS",
-    "Skagbait",
-    "VIP-GUNWALL",
-    "VIP-GIFTSHOP",
-    "VIP-REDCHEST",
-    "VIP-COV",
-    "VIP-MOXXI",
-    "VIP-ENVART",
-    "VIP-CALYPSO",
-    "VIP-CHARCONCEPT",
-    "VIP-BOXCONCEPT",
-    "VIP-PHOTOBOOTH",
-    "BL3MUSEUMCOSPLAY",
+    "Dreamlandvip",
+    "1CODE",
+    "1ronbear",
     "3DJUEGOSVIP",
-    "HALVERHAHN",
+    "5piderantcenturio",
+    "AIRLEMAGVIP",
+    "ALLYOURGAMESVIP",
+    "BL3FREVENTVIP",
+    "BL3MUSEUMCOSPLAY",
+    "Bolvip",
+    "BOLVIP",
+    "BONERFART",
+    "Borderlands3vip",
+    "BORDERLANDSCOSPLAYE3",
+    "BORDERLENS",
     "BRINGMEABUCKET",
+    "Childrenofthevault",
+    "CHILDRENOFTHEVAULT",
+    "CRUMPOCALYPSE",
+    "D1G1KLON",
+    "DREAMLANDVIP",
+    "Ehrenmann",
+    "FACEBOOKVIP",
+    "GAMEMANIAVIP",
+    "GAMESPOTVIP",
+    "GAMEVIP",
+    "GODSDONTNEGOTIATE",
+    "HALVERHAHN",
+    "IGNVIP",
+    "ILOVEBAGUETTE",
+    "INTERTOYSVIP",
+    "JABBERKUMP3L",
+    "JOYPUKE",
+    "JVMVIP",
+    "LETSMAKESOMEMAYHEM",
+    "LOADINGBAR",
+    "LOOTSPLOSION",
+    "LOWCOSTCOSPLAYE3",
+    "MAYHEM",
     "MAYHEMPRIDE",
+    "MEDIAMARKTVIP",
+    "MUSHYSNUGGLEBITES",
+    "NEDGAMEVIP",
+    "OOPS",
+    "PAXSCAVENGER",
+    "Ph4senschlag",
+    "Phasenkl4mmerung",
+    "Phasenproj3ktion",
+    "PLAYERONEVIP",
     "PWR2PLYRS",
+    "RA1LGUN",
+    "SEVENDAYS",
+    "SHACKNEWSVIP",
+    "Skagbait",
+    "SMARTOYSVIP",
+    "Sntnl",
     "THESEPRETZELSSUCK",
     "TINKABOUTIT",
-    "LOOTSPLOSION",
-    "BONERFART",
-    "LETSMAKESOMEMAYHEM",
-    "MAYHEM",
-    "CRUMPOCALYPSE",
-    "Childrenofthevault",
-    "WACHSK4G",
-    "JABBERKUMP3L",
-    "D1G1KLON",
-    "RA1LGUN",
-    "5piderantcenturio",
-    "Phasenkl4mmerung",
-    "1ronbear",
-    "Sntnl",
-    "Phasenproj3ktion",
-    "Ph4senschlag",
-    "1CODE",
-    "GODSDONTNEGOTIATE",
-    "Ehrenmann",
+    "TWITCHVIP",
     "TWOWEEKS",
-    "VIP-PAXINIT",
-    "VIP-PAXALAX",
-    "VIP-SUPERPAX",
-    "VIP-EATINGPAX",
-    "JVMVIP",
-    "VIP-LOOTPAX",
-    "VIP-PAXSCAVENGER",
-    "PAXSCAVENGER",
-    "VIP-PAXATYA",
-    "VIP-PAXATTACK",
-    "VIP-TAKEITTOTHEPAX",
-    "VIP-PAXTASTIC",
-    "SMARTOYSVIP",
-    "MEDIAMARKTVIP",
-    "Bolvip",
-    "GAMEMANIAVIP",
-    "ALLYOURGAMESVIP",
-    "NEDGAMEVIP",
-    "YOURGAMEZONEVIP",
-    "VIP-DEATHANDPAXES",
-    "VIP-SMACKTHATPAX",
-    "VIP-KEEPINGITPAX",
-    "INTERTOYSVIP",
-    "PLAYERONEVIP",
     "VIP-ANOTHERPAXPUN",
+    "VIP-BOXCONCEPT",
+    "VIP-CALYPSO",
+    "VIP-CHARCONCEPT",
+    "VIP-COV",
+    "VIP-DEATHANDPAXES",
+    "VIP-EATINGPAX",
+    "VIP-ENVART",
+    "VIP-GIFTSHOP",
+    "VIP-GUNWALL",
+    "VIP-KEEPINGITPAX",
+    "VIP-LOOTPAX",
+    "VIP-MOXXI",
     "vip-paxagainstthewall",
-    "SEVENDAYS",
-    "AIRLEMAGVIP",
-	"Dreamlandvip"
+    "VIP-PAXALAX",
+    "VIP-PAXATTACK",
+    "VIP-PAXATYA",
+    "VIP-PAXINIT",
+    "VIP-PAXSCAVENGER",
+    "VIP-PAXTASTIC",
+    "VIP-PHOTOBOOTH",
+    "VIP-REDCHEST",
+    "VIP-SMACKTHATPAX",
+    "VIP-SUPERPAX",
+    "VIP-TAKEITTOTHEPAX",
+    "WACHSK4G",
+    "WEGOTUBOO",
+    "WHATCHUWANT",
+    "WUBWUBWUB",
+    "YOURGAMEZONEVIP"
 ]
 
 
@@ -248,61 +259,8 @@ async function gatherpoints() {
 	alert("Total Points Redeemed: " + totalpoints)
 }
 
-// try and get the latest codes that are defined in the Borderlands discord spreadsheet
-// the hard-coded codes will not be overriden
-async function tryGetLatestCodes() {
-    const url = "https://sheets.googleapis.com/v4/spreadsheets/1QfwdILwVv19sKeveaBzZwhQLEOzmFwnOmMZsWLKwgg8/values/A5%3AB1000?valueRenderOption=FORMATTED_VALUE&key=AIzaSyCcDGjg03zH4omQvn8yV1ciUlh0nAXj1qs";
-
-    let codes = [];
-
-    try {
-        ({ values: codes } = await (await fetch(url)).json());
-    } catch (e) {
-        return;
-    }
-
-    if (codes == null) {
-        return;
-    }
-
-    codes.forEach(element => {
-        if (element == null || element.length !== 2) {
-            return;
-        }
-
-        const code = element[0];
-        const type = element[1];
-        if (code == null || type == null) {
-            return;
-        }
-
-        const typeNormalized = type.toLowerCase();
-
-        if (typeNormalized === "vault") {
-            VAULTS = appendCodeToArray(VAULTS, code);
-        } else if (typeNormalized === "email") {
-            EMAILS = appendCodeToArray(EMAILS, code);
-        } else if (typeNormalized === "creator") {
-            CREATORS = appendCodeToArray(CREATORS, code);
-        }
-    });
-}
-
-function appendCodeToArray(array, code) {
-    if (array == null || array.length === 0 || code == null) {
-        return;
-    }
-
-    const codeIndex = array.findIndex(existingCode => existingCode.toLowerCase() === code.toLowerCase());
-    if (codeIndex === -1) {
-        array.push(code);
-    }
-
-    return array;
-}
 
 async function main() {
-	await tryGetLatestCodes();
 	gatherpoints();
 }
 
