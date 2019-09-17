@@ -56,13 +56,14 @@ if (result.points) {
 
 return null;
 }
+
 var vaultcid = 5261;
 var emailcid = 5264;
 var creatorcid = 5263;
 var boostcid = 5721;
 
-
 var EMAILS = [
+    "PS4MAYHEM",
     "OVERABILLION",
     "BL3REVEAL",
     "BL3WELCOME",
