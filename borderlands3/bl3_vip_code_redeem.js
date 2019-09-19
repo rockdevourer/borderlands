@@ -63,6 +63,8 @@ var creatorcid = 5263;
 var boostcid = 5721;
 
 var EMAILS = [
+    "DONTFORGET",
+    "ALLBORDERLANDSALLDAY",
     "PS4MAYHEM",
     "OVERABILLION",
     "BL3REVEAL",
