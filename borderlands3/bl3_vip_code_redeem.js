@@ -204,7 +204,8 @@ var VAULTS = [
     "vip-paxagainstthewall",
     "SEVENDAYS",
     "AIRLEMAGVIP",
-	"Dreamlandvip"
+    "Dreamlandvip",
+    "CAOSENMGW"
 ]
 
 
