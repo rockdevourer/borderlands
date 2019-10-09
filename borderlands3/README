@@ -15,9 +15,20 @@ There may be a better way to implement this, but this is what I was able to figu
 
 TODO (no particular order):
 * Database for codes
+    o Work not started, but scoped
 * Implement feedback of codes to database (expired, etc, to not keep attempting)
+    o Work not started, but scoped
 * Implement "Golden Keys", as it seems that should be feasible as well
+    o This has some thoughts in the main branch, but not seen-through to completion quite yet; proved out in proof-of-concept (and repeatable for BL 1 GOTY Remaster, BL2, TPS, and BL3)
+* Make usage easier (from Issue #5)
+    o Preliminary work has begun; plan is to utilize the MERN stack (Mongo or Maria, undetermined; purpose is to fulfill the top 2 items)
+    o Automatic redemption theoretically could be performed BUT I don't know/remember if there's a login token presented
+        > If not, the only way would be to store passwords, and I don't think there's any good way to secure this as such (and I imagine people reuse emails/passwords, and the "greater good" would be to not allow this). 
+    o Frontend is 99% developed, only need is to tie to backend (to be developed) and possibly update formatting (frontend is not my forte and hasn't been my focus in a long, long time)
+        o Front end would need to be updated for options other than Borderlands 3 for Golden Keys, as I'm sure there are plenty of people that still enjoy BL2/BL1 GOTY Remaster/TPS (maybe?)
 * 100% Borderlands 3
+    o Beat main story, no side missions or level 50 yet; started as Moze, rerolled, took Zane through the story, and rerolled a Fl4k. XBL GT: rockdevourer
+    
 
 
 Thanks to /r/borderlands3 for the initial codes! 
